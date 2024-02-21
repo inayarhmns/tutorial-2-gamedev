@@ -18,6 +18,15 @@ config/name="Tutorial 2"
 run/main_scene="res://scenes/MainLevel.tscn"
 config/icon="res://assets/icon.png"
 
+[display]
+
+window/size/resizable=false
+
+[global]
+
+resize=false
+resiz=false
+
 [input]
 
 move_up={
